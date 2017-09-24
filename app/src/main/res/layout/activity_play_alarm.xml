@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBG"
+    android:gravity="center"
+    android:keepScreenOn="true"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="@string/close_clock"
+        android:elevation="8dp"
+        android:textColor="@color/colorLv"
+        android:background="@drawable/button"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/animate"
+        android:id="@+id/iv_alarm"/>
+
+    <Button
+        android:id="@+id/btn_delay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="@string/delay_sleep"
+        android:elevation="20dp"
+        android:background="@drawable/button"
+        android:textColor="@color/colorLv" />
+
+</LinearLayout>

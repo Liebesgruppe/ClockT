@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\4d46ad71b0783d77de6a342cd4b0be7a5c3d616f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_6ee0847a07e374f0a3d369fcd4c354c2d7e94a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\b42805d194ac7451e95ef2d481775a616cf8b02a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_71975ad62d6b7bdceb15813d32146efa082d52a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\9df179e136dead8a3b9180d2d3df6f7477681d09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_2ed301ef4f68fa876c07d328cec889d47d374875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\b41898160bceaa55a4f7f8800d33afff9c3ccf23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_7f550a7fa95bfc0053b38f94b406afba4dd6de84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ClockT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0cf3838bc0a6eca845ceb34ed7c662c4708638f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\7de5806330b1a1753ef4e9f7e9e231e88b4ff08e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_40b7f60158e56352eb840e73530554a95451d60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\29044\AppData\Local\Android\SdkH\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6725eb60b1b0d125a98e3b99e9adce81f11c0374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\e6e06286d7ebe9d94131b5a5548b45abd6d2701e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_78bb91a8fc776102cd305b363c2cb7052e0d4835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\29044\AppData\Local\Android\SdkH\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_93d69c1711f64bc21770415914604087ba819aa1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ClockT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8be3403ab17668c1cb200f016c56a2c603592a04">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f1d6ba6abbddcb41fd3393461566f60b772aeef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\4258de4a3982b3551cc81c3b54e499163e6bd3ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_14d79b80b6a498917f0cd8a33e7ede34cbbf2945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\5c4be6eff7f592031e95523bb3d2fba45fb83f31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_5887b185dacc0fdacaf091ee0ee04daa80d942ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\d2987505a8346a8006d637ae2c68aed4439b1dc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_a7ac1da0543e98ff330343a5cb104600a5247979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\a1bca818fa4f98af4a328cf5bd69b39c3caf1a4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_b38cad44badf78e966fe692475f9831d3493dd23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\de2d3e556802d7e36682dd5fceb8655527401ea7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_e8551808d4d3a92f1300cfcda45ab0497b134f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\9d75904aca856294c1c2c170b69cf6b76e6d46b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_07e9c190b863075ac3eec9b7dcb85ca7bc0c185b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\d8dc592997c11f049338b42a954179319e89f7ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AndroidStudioProjects\ClockT\app\build\intermediates\pre-dexed\debug\classes_260a0e1e2fa6047fc043f4cf10d9006d6864c07e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/play_alarm">
+
+    <target
+        android:animation="@animator/alarm_animator_hour"
+        android:name="hour" />
+
+    <target
+        android:animation="@animator/alarm_animator_min"
+        android:name="min" />
+
+    <target
+        android:animation="@animator/alarm_animator_vibrate"
+        android:name="alarm" />
+
+</animated-vector>
