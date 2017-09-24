@@ -95,7 +95,6 @@
             android:layout_weight="1"
             android:background="@drawable/button"
             android:text="@string/start"
-            android:elevation="8dp"
             android:textColor="@color/colorLv" />
 
         <Button
@@ -106,7 +105,6 @@
             android:layout_weight="1"
             android:background="@drawable/button"
             android:text="@string/reset"
-            android:elevation="8dp"
             android:textColor="@color/colorLv" />
 
     </LinearLayout>

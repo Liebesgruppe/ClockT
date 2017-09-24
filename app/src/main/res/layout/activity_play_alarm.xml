@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="30dp"
         android:text="@string/close_clock"
-        android:elevation="8dp"
         android:textColor="@color/colorLv"
         android:background="@drawable/button"/>
 
@@ -29,7 +28,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:text="@string/delay_sleep"
-        android:elevation="20dp"
         android:background="@drawable/button"
         android:textColor="@color/colorLv" />
 
