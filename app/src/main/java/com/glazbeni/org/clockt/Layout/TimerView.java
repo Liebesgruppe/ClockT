@@ -155,7 +155,7 @@ public class TimerView extends LinearLayout implements View.OnClickListener {
                                     btnStartPause.setText(getResources().getText(R.string.start));
                                     checkEt = false;
                                 }
-                            }).show();
+                            }).setCancelable(false).show();
                     break;
                 case TIMER_UPDATE:
                     etHour.setText(df.format(hour));
